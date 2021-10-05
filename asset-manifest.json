@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jobeasy/static/css/main.dedb1f44.chunk.css",
+    "main.js": "/jobeasy/static/js/main.b0e55417.chunk.js",
+    "main.js.map": "/jobeasy/static/js/main.b0e55417.chunk.js.map",
+    "runtime-main.js": "/jobeasy/static/js/runtime-main.d28d3c71.js",
+    "runtime-main.js.map": "/jobeasy/static/js/runtime-main.d28d3c71.js.map",
+    "static/js/2.5c2dbe46.chunk.js": "/jobeasy/static/js/2.5c2dbe46.chunk.js",
+    "static/js/2.5c2dbe46.chunk.js.map": "/jobeasy/static/js/2.5c2dbe46.chunk.js.map",
+    "index.html": "/jobeasy/index.html",
+    "static/css/main.dedb1f44.chunk.css.map": "/jobeasy/static/css/main.dedb1f44.chunk.css.map",
+    "static/js/2.5c2dbe46.chunk.js.LICENSE.txt": "/jobeasy/static/js/2.5c2dbe46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d28d3c71.js",
+    "static/js/2.5c2dbe46.chunk.js",
+    "static/css/main.dedb1f44.chunk.css",
+    "static/js/main.b0e55417.chunk.js"
+  ]
+}
