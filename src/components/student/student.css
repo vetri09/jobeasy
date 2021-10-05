@@ -1,0 +1,11 @@
+.student_container {
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.student_welcome {
+    font-size: 45px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,56 @@
+.job_container {
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    border-radius: 10px;
+    /* width: 800px;
+    margin: 0px auto; */
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.job_main_content {
+    display: flex;
+    flex-direction: column;
+}
+.job_side_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.job_title {
+    font-size: 26px;
+    font-weight: 300;
+}
+.job_company {
+    font-size: 20px;
+}
+.job_applicants {
+    font-size: 15px;
+}
+.job_location {
+    font-size: 20px;
+}
+.postDate {
+    font-size: 15px;
+    margin-left: 50px;
+}
+.job_btns {
+    background-color: #41295a;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    padding: 5px 10px;
+    outline: none;
+}
+.job_btns_applied {
+    background-color: #68656d;
+    border: none;
+    border-radius: 5px;
+    cursor: not-allowed;
+    color: #fff;
+    padding: 5px 10px;
+    outline: none;
+}

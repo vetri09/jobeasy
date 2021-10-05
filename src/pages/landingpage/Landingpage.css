@@ -1,0 +1,34 @@
+.background {
+    height: 100vh;
+    background-color: #41295a;
+}
+.landingpage_container {
+    height: 90vh;
+    width: 100%;
+    color: #F8F8FF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.landingpage_heading {
+    font-weight: 500;
+    font-size: 50px;
+}
+.landingpage_content {
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+.landingpage_btns {
+    display: flex;
+}
+.landingpage_btn {
+    background-color: #FFF6FF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #41295a;
+    font-size: 17px;
+    margin: 10px;
+    padding: 10px 20px;
+}

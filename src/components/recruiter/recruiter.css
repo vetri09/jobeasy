@@ -1,0 +1,46 @@
+.recruiter_container {
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.recruiter_welcome {
+    font-size: 45px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+.post_job_btn {
+    padding: 8px 40px;
+    background-color: #41295a;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.post_container {
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    margin-bottom: 20px;
+}
+.post_container input{
+    display: block;
+    margin-bottom: 10px;
+    outline: none;
+    padding: 5px;
+}
+.post_container textarea {
+    display: block;
+    margin-bottom: 10px;
+    outline: none;
+    padding: 5px;
+}
+.posted_heading {
+    margin-bottom: 10px;
+    font-size: 30px;
+}

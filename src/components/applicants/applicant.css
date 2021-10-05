@@ -1,0 +1,13 @@
+.applicant_details {
+    display: flex;
+    align-items: center;
+    margin: 3px 0px;
+}
+.applicant_profile {
+    border-radius: 50%;
+    width: 30px;
+    margin-right: 20px;
+}
+.applicant_name {
+    color: #000;
+}
